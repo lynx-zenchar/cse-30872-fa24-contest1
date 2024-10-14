@@ -3,5 +3,5 @@
 - **Group Name**: 
 
 - **Group Members**: 
-    - Domer McDomerson (dmcdomers@nd.edu) 
+    - Matthew Eleazar (meleazar@nd.edu) 
     - Belle Fleur (bfleur@nd.edu) 
